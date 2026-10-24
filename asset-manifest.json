@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2665b2dd.css",
+    "main.js": "/static/js/main.24a5a57f.js",
+    "static/media/div.HeroBanner_background__B5YAs (1).png": "/static/media/div.HeroBanner_background__B5YAs (1).beea141f40cb63067861.png",
+    "static/media/HowCarmaWorksHero.jpg.svg": "/static/media/HowCarmaWorksHero.jpg.6aa57e54a69e5cdaee63.svg",
+    "static/media/HowFinanceWorksHero.jpg.png": "/static/media/HowFinanceWorksHero.jpg.f4f75f451dd42846e0c2.png",
+    "index.html": "/index.html",
+    "main.2665b2dd.css.map": "/static/css/main.2665b2dd.css.map",
+    "main.24a5a57f.js.map": "/static/js/main.24a5a57f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2665b2dd.css",
+    "static/js/main.24a5a57f.js"
+  ]
+}
